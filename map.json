@@ -863,10 +863,6 @@
          "tilecount":850,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "firstgid":2683,
-         "source":"pexon logo.tsx"
         }],
  "tilewidth":32,
  "type":"map",
