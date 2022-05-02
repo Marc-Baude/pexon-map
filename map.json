@@ -385,7 +385,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"meet.google.com\/jkx-vixx-oog"
+                 "value":"https:\/\/www.meet.google.com\/jkx-vixx-oog"
                 }],
          "type":"tilelayer",
          "visible":true,
