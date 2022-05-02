@@ -385,7 +385,12 @@
                 {
                  "name":"openTab",
                  "type":"string",
-                 "value":"https:\/\/meet.google.com\/rwv-xgkf-xzr"
+                 "value":"https:\/\/heise.de"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
