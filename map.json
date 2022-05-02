@@ -386,6 +386,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.heise.de\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
