@@ -383,14 +383,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
-                 "value":"https:\/\/www.heise.de\/"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen"
+                 "value":"https:\/\/https:\/\/meet.google.com\/rwv-xgkf-xzr"
                 }],
          "type":"tilelayer",
          "visible":true,
