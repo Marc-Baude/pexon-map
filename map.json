@@ -386,6 +386,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Room3"
+                }, 
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"meet.google.com\/jkx-vixx-oog"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -439,7 +444,7 @@
          "name":"gras",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":40,
          "x":0,
          "y":0
@@ -490,7 +495,7 @@
          "name":"walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":40,
          "x":0,
          "y":0
@@ -541,7 +546,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":40,
          "x":0,
          "y":0
@@ -592,7 +597,7 @@
          "name":"belowFurtniure",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":40,
          "x":0,
          "y":0
