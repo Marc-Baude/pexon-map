@@ -385,7 +385,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/meet.google.com\/rwv-xgkf-xzr"
+                 "value":"http:\/\/slither.io\/"
                 }],
          "type":"tilelayer",
          "visible":true,
