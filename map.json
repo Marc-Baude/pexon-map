@@ -383,11 +383,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Room3"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"meet.google.com\/jkx-vixx-oog"
