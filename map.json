@@ -385,7 +385,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/slither.io\/"
+                 "value":"https:\/\/www.heise.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
